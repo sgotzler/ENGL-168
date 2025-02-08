@@ -81,7 +81,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 4 - Open World Building</h3>
 				</header>
-				<p><strong>Space, Choice, and Epic Story-telling</strong>
+				<p><strong>Space, Choice, and Epic Storytelling</strong>
 				</p>
 				<p><strong>M - 09/09</strong> Play and Discuss <em>The Witcher III</em>
 				</p>
