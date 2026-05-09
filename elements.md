@@ -25,7 +25,9 @@ nav-menu: true
 </p>
 
 <h2 id="content">Course Games List</h2>
-<p>The course's center of gravity is the role-playing game (RPG): students will engage with RPGs across multiple forms — journaling games, BoB-style games, traditional tabletop RPGs, social-deduction games, and computer RPGs — alongside a small number of non-RPG titles that nonetheless ground the course's methodological work. All games and rulebooks will be made available as PDFs via the course Canvas page. <strong>NOTE:</strong> not every game listed below will receive a full play session in class. Some will anchor extended engagement across multiple class meetings; others will be demoed, featured briefly, or referenced as design inspiration without full play. The list captures the games students should expect to encounter across the semester — as primary play objects, as design models, or as critical reference points
+<p>The course's center of gravity is the role-playing game (RPG): students will engage with RPGs across multiple forms — journaling games, BoB-style games, traditional tabletop RPGs, social-deduction games, and computer RPGs — alongside a small number of non-RPG titles that nonetheless ground the course's methodological work. All games and rulebooks will be made available as PDFs via the course Canvas page.</p> 
+
+<p><strong>NOTE:</strong> not every game listed below will receive a full play session in class. Some will anchor extended engagement across multiple class meetings; others will be demoed, featured briefly, or referenced as design inspiration without full play. The list captures the games students should expect to encounter across the semester — as primary play objects, as design models, or as critical reference points
 </p>
 
 <p><strong>Find out more about each of these games below:</strong></p>
