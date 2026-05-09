@@ -24,19 +24,8 @@ nav-menu: true
 <p>Our gameplay activities are designed to furnish a critical perspective on games as culture, and we will strive to create an environment for exploring alternate play practices that embrace difference. As such, our gameplay activities should be undertaken in a critically engaged spirit that welcomes participation from players of all backgrounds and from all levels of gaming experience or ability — these activities are <strong>never</strong> about winning.
 </p>
 
-<h2 id="content">Extended Play Sessions</h2>
-<p>In addition to our normal class meetings, we will be holding several extended play sessions throughout the term. These will operate like screenings for a film course and will provide us with the space and time necessary to engage with long-form gameplay of select titles. 
-These are mandatory events and will serve as out of class time towards your credit hours, the same way reading a novel outside of class for homework would. 
-</p>
-
-<p>
-We will hold three extended play sessions throughout the term during weeks 7, 9, and 11: 
-
-<p><em>Wanderhome</em> – <strong>Tuesday 10.01.24 | 5:00-7:30PM ET in GL 316</strong>
-</p>
-<p><em>Blood on the Clocktower</em> – <strong>Tuesday 10.15.24 | 6:00-8:30PM ET in GL 316</strong>
-</p>
-<p><em>Unfathomable</em> – <strong>Tuesday 10.29.24 | 5:00-7:30PM ET in GL 316</strong>
+<h2 id="content">Course Games List</h2>
+<p>The course's center of gravity is the role-playing game (RPG): students will engage with RPGs across multiple forms — journaling games, BoB-style games, traditional tabletop RPGs, social-deduction games, and computer RPGs — alongside a small number of non-RPG titles that nonetheless ground the course's methodological work. All games and rulebooks will be made available as PDFs via the course Canvas page. <strong>NOTE:</strong> not every game listed below will receive a full play session in class. Some will anchor extended engagement across multiple class meetings; others will be demoed, featured briefly, or referenced as design inspiration without full play. The list captures the games students should expect to encounter across the semester — as primary play objects, as design models, or as critical reference points
 </p>
 
 <p><strong>Find out more about each of these games below:</strong></p>
