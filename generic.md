@@ -1,97 +1,112 @@
 ---
-layout: post
+layout: landing
 title: Assignments and Materials
 description: required texts, guidelines, and due dates 
 image: assets/images/side-quest2.jpg
 nav-menu: true
 ---
 
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+<div class="inner" markdown="1">
+
 ### Required Materials
 
-In addition to excerpts from scholarly sources, we will also be setting ourselves several works to read in their entirety. As such, students will need to acquire full text copies of two novels. PDF extracts of other sources such as selected short stories, and critical readings on games and literature will also be distributed through [Canvas](https://uncch.instructure.com/courses/64653). 
+In addition to excerpts from scholarly sources, we will also be reading several excerpted works of fiction. PDF extracts of most sources — including selected short stories and critical readings on games and literature — will be distributed through [Canvas](#). 
 
-Students will be required to acquire copies of the following texts for the course:
+Students will be required to acquire copies of the following text for the course:
 
 <ul>
-	<li>Bram Stoker, <em>Dracula</em> (1897) — <strong>ISBN-13:</strong> 978-0199564095</li>
-	<li>Arthur Conan Doyle, <em>The Hound of the Baskervilles</em> (1902) — <strong>ISBN-13:</strong> 	978-0198835226</li>
+	<li>Bram Stoker, <em>Dracula</em> (1897) — <strong>ISBN-13:</strong> 978-0199564095 [Available online via <a href="https://www.gutenberg.org/ebooks/345" target="_blank">Project Gutenberg</a>]</li>
 </ul>
 
-All games will be provided for either as digital or hard copies in the Greenlaw Gameroom, or as PDF copies distributed on canvas.
-
-|**Video Games** | **Board Games** | **Roleplaying Games**|
-|*Stardew Valley* (2016) | *Settlers of Catan* (1995) | *The 1000-Year-Old Vampire* (2019) |
-|*Octodad* (2014) | *Unfathomable* (2021) | *Wanderhome* (2020) |
-|*Disco Elysium* (2019) | *Blood on the Clocktower* (2022) | *Dungeons & Dragons 1st Ed.* (1978) |
-|*Cyberpunk: 2077* (2022) |
-|*The Witcher III: Wild Hunt* (2015) |
+All games will be provided for either as digital or hard copies in the Greenlaw Gameroom, or as PDF copies distributed on canvas. A full list of course games can be found on the [Gameplay Activities](elements.html) page.
 
 ### Assignments & Expectations
 
 ---
 
 #### Weekly Reading and Gameplay
+
 Everything we do in this course will be rooted in two core activities: close reading and critical play. 
 
-A significant portion of our class time in the Gameroom will be used to facilitate critical play of featured games. To facilitate this, we will work together to play, watch, and discuss these texts and objects at the 5 gaming stations in small groups, or as one large group together. Aside from play sessions, the course will run mostly as a discussion-based seminar, where we will explore the literature we read, as well as the games we play together through critical conversation. 
+A significant portion of our class time in the Gameroom will be used to facilitate critical play of featured games. To enable this, we will work together to play, watch, and discuss these texts and objects at the 5 gaming stations in small groups, or as one large group together. Aside from play sessions, the course will run mostly as a discussion-based seminar, where we will explore the literature we read, as well as the games we play together, through critical conversation. 
 
-More specific information regarding play sessions can be found on the [**Gameplay Activities**](https://sgotzler.github.io/ENGL-258/elements.html) page of the course website.
+***Expectations and Effort***: In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular weekly reading load of anywhere between 30–60 pages (15–30 pages per class session, M/W), and to come to each play session having read the corresponding journal prompt in advance.
 
-*Expectation and Effort*: In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular weekly reading load of anywhere between 90-120 pages (45-60 pages of fiction per day for each class session, M/W). 
-
-A small number of selected critical readings will be excerpted and assigned as mandatory reading. However, most of the reading in the course will consist of popular fiction. Weeks focusing more on gameplay, and less on literature, may also entail rulebooks, game handbooks or character creation systems as required assigned reading. As the term progresses, I will continue to share uploads of critical selections related the games and literature that we are discussing as assigned reading.
+A small number of selected critical readings will be excerpted and assigned as mandatory reading. However, most of the reading in the course will consist of popular fiction. Weeks focusing more on gameplay, and less on literature, may also entail rulebooks, game handbooks, or character creation systems as required assigned reading. As the term progresses, I will continue to share uploads of critical selections related to the games and literature that we are discussing as assigned reading.
 
 ---
 
-#### Play Journals
-In this course, we will be keeping course journals. These journals will be created and maintained independently by the students and are designed to provide a space for students to engage in deliberate guided reflection and practical experimentation related to games and literature. 
+#### Attendance and Participation (15%)
 
-These journals will be used to collect notes, observations, and insights generated in the course of our critical play activities in class. These notes and observations will then form the basis of short critical reflections about the games we engage with during our in-class and extended play sessions as a part of the course. In their journal entries, students should use the literary and critical gaming concepts we discuss in class to combine a critical reflection about their situated experience of play, with an analytical discussion of the game’s formal qualities (i.e., aesthetics, mechanics, narrative, cultural context).
+This category accounts for 15% of the final grade in this course. Participation is assessed by your record of attendance in class and at the Final Showcase, the frequency and quality of your contributions to discussion, your engagement during in-class play sessions, and a self-assessment survey at the end of term.
 
-*Expectations and Effort*: Each journal entry should range from 250-400 words in length and must be written in complete sentences and paragraph form. Finished journal entries should not take more than 30-45min each to draft from previously collected notes, however they should take at least 15min of effort.
-The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded, twice throughout the term:
-
-**Assessment for entries 1-4 – Sunday 09.22.24 @ 11:59PM ET**
-
-**Assessment for entries 5-8 – Sunday 11.03.24 @ 11:59PM ET**
+**PLEASE NOTE:** The best way to ensure full credit for participation is to stay on top of the weekly reading assignments — including rulebooks or other game-related preparatory materials — to come to class prepared to contribute to discussion and to engage in the play session with the appropriate level of critical focus, and to arrive at each play session having read the corresponding journal prompt in advance.
 
 ---
 
-#### FINAL: Class Portfolio Contribution
-The capstone assignment for this course will be a contribution to a class portfolio collecting a series of critical design projects. Students will work in small groups to research, design, test, and produce small text-based critical games. 
+#### Play Journals (25%)
 
-These games can, and perhaps should, have a clear narrative element, but more importantly, they must present and elaborate some sort of critical argument or theoretical insight — about games, or about literature, or both — drawn from, or inspired by, our course conversations throughout the term. 
+In this course, we will be keeping play journals. These journals will consist of a sequence of ten short entries documenting your situated experiences of in-class play across the semester. Each entry corresponds to a specific game and a specific session, and each is structured by a prompt designed to shape the kind of attention you bring to play. The prompts will be made available on Canvas in advance of each play session, so that you arrive at the session knowing what the journal will ask of you afterward, and the questions can guide what you notice during play.
 
-Beyond that, portfolio contributions may take several different forms, for example: as a campaign narrative, monster manual or game world sourcebook, as a character creation system, a journaling game, prompt-based collaborative exercise such as map-drawing, a choice-based branching narrative, or interactive visual novel, to name only a few. In crafting their designs students may choose to create digital games using software like TWINE, or create analog games utilizing pen and paper, or incorporating basic components such as dice or a simple deck of cards.
+Your journal entries should combine close attention to the play experience itself with careful, specific writing about what you noticed, thought, or felt during play. You are not summarizing the game or reviewing it — you are recording your situated experience of it, in response to a particular question. Some prompts will ask you to attend to a specific moment in play; some will ask you to describe a chosen object or interaction; some will ask you to render in writing something the game made visible to you. Approach each entry on its own terms. The prompt for each session is the assignment for that entry.
 
-As such, portfolio contributions will differ slightly in the range of their components and the appearance of the final ‘product,’ however every contribution project will include the following: 
+***Expectations and Effort***: Each entry should run ~250 words and must be written in complete sentences and paragraph form. Finished entries should not take more than 30–45 minutes of focused writing time to complete after their corresponding play session but should take at least 15 minutes of effort. 
 
-- **Proposal** - a proposal outlining scope, purpose, and relevance of proposed game design
-- **Progress Report** - a report on design project’s progress, and identifying obstacles
-- **Critical Designer's Note** - an essay outlining the critical intention behind the game’s design
-- **Research Bibliography** - a bibliography of secondary and primary sources related to the project
-- **Documentation** - rulebooks, relevant instructions, file packages, URL's, etc.
-- **Components** - final documents/layouts, visualizations, assets, physical components, etc.
-  
-*Expectation and Effort:* Students will spend the last 4-5 weeks of the term developing their portfolio contributions. This process will begin with the submission of a brief, but formal, proposal for their portfolio contribution, continue through a sequence of in-class workshops covering research, design, and production, leading onto a progress report on the state of the project near the end of the semester, and culminating in a class exhibition during the final exam period where we will present and play our games together.
+Entries are due by 12:00 PM ET on the Friday following each play session, except where two play sessions occur in the same week, in which case the second entry is due by 11:59 PM ET on the Sunday following that Friday. Entries will be graded on a rolling basis throughout the term using a 5-point scale: clarity of attention (2 pts), specificity and concreteness (2 pts), and care of writing (1 pt).
 
+---
 
-Proposals will be submitted in week 12, and final portfolio contributions will be due on **Monday 12.09.24**.
+#### RPG Pitch Document (20%)
+
+The RPG Pitch Document is the first major scaffolding step in the final project for this course. Its purpose is to articulate, with enough clarity and specificity that someone could imagine making it, the short RPG you intend to design across the second half of the semester. The Pitch is not a finished game, but a careful description of a game that does not yet exist, accompanied by a small piece of actual game material that gives the description weight.
+
+The document will address six elements: (1) a brief introductory pitch; (2) a declaration of the game's form (journaling RPG, BoB-style game, tabletop RPG, or TWINE game) and a brief justification of that choice; (3) a short articulation of the game's premise — its setting, central tension, and texture; (4) a description of the game's central design move; (5) a brief account of the project's connection to course material; and (6) a Design Sketch — a single representative piece of game material drafted to sketch fidelity.
+
+***Expectations and Effort***: The Pitch should run 3–5 pp. for solo projects, or 5–8 pp. for groups of 2–3. Students will develop their drafts during in-class workshop sessions on M 10/12 (Pitch Workshop) and W 10/14 (Drafting Studio). The completed document is due on **Wednesday 10/14 @ 11:59 PM ET**. Upon review, students may be asked to revise and resubmit if any of the elements above have not been adequately addressed.
+
+---
+
+#### Original Short RPG + Designer's Note (40%)
+
+The Final Project is the culminating work of the course, and the realized version of the game you proposed in the RPG Pitch Document earlier in the semester. The relationship between the Pitch and the Final is one of development, not strict revision: the Pitch was a careful description of a game that did not yet exist, while the Final is the game made real — fully drafted, internally consistent, and playable by someone who has not been in our classroom. The development arc between the two is itself part of what you will reflect on in the designer's note.
+
+The Final consists of three components: (1) the game itself, in prototype-stage playable form, in one of the four available formats — journaling RPG, BoB-style game, tabletop RPG, or TWINE game; (2) a designer's note that narrates the project's development from Pitch to Final, articulates one specific connection to course materials, and offers a brief invitation to your future players; and (3) a designer's presentation delivered at the Final Showcase, accompanied by slides and reshaped for live audience.
+
+***Expectations and Effort***: The Final should run 4–6 pp. of game text plus a 250–350-word designer's note for solo projects, or 6–10 pp. of game text plus per-member designer's notes (each 250–350 words) for groups of 2–3. Students will develop their projects across the second half of the semester, with iterative work supported during the Prototype Workshop (Weeks 14 M+W) and the Playtest Workshop (Week 16 M). The completed Final Project is due **Friday 12/11 @ 12:00 PM ET**, prior to the Final Showcase that afternoon (12:00–3:00 PM ET, GL 316), at which all projects are presented and exhibited for collective play.
+
+---
+
+#### Grade Breakdown
+
+- Attendance and Participation — **15%**
+- Play Journal Entries — **25%**
+- RPG Pitch Document — **20%**
+- Original Short RPG + Designer's Note — **40%**
 
 ---
 
 #### Required Activities and Assignment Due Dates
 
-- Play Journal Entries 1-4 — **09/22/24 @ 11:59PM ET**
-- **Extended Play:** *Wanderhome* — **10/01/24 @ 05:00PM ET**
-- **Extended Play:** *Blood on the Clocktower* — **10/15/24 @ 06:00PM ET**
-- **Extended Play:** *Unfathomable* — **10/29/24 @ 05:00PM ET**
-- Play Journal Entries 5-8 — **11/03/24 @ 11:59PM ET**
+- Play Journal 1 — **09/05/26 @ 12:00 PM ET**
+- Play Journal 2 — **09/07/26 @ 12:00 PM ET**
+- Play Journal 3 — **09/11/26 @ 12:00 PM ET**
+- Play Journal 4 — **09/25/26 @ 12:00 PM ET**
+- Play Journal 5 — **10/02/26 @ 12:00 PM ET**
+- Play Journal 6 — **10/09/26 @ 12:00 PM ET**
+- Play Journal 7 — **10/30/26 @ 12:00 PM ET**
+- Play Journal 8 — **11/06/26 @ 12:00 PM ET**
+- Play Journal 9 — **11/08/26 @ 12:00 PM ET**
+- Play Journal 10 — **11/13/26 @ 12:00 PM ET**
 
-- Project Proposal — **11/08/24 @ 11:59PM ET**
-- Progress Report — **11/25/24 @ 11:59PM ET**
-- Portfolio Final Project — **12/09/24 @ 11:59PM ET**
-- **Final Exam Period:** Portfolio Exhibition — **12/10/24 @ 04:00PM ET**
+- RPG Pitch Document — **10/14/26 @ 11:59 PM ET**
+- Game + Designer's Note — **12/11/26 @ 12:00 PM ET**
+- **Final Exam Period:** Design Showcase — **12/11/26 @ 12:00–3:00 PM ET**
 
-
-
+</div>
+</section>
+</div>

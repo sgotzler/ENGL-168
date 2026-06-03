@@ -15,8 +15,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Description</h2>
 		</header>
-		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the capacity of both games and literature to inform our understanding of the world, and for shaping our relationships to each other and ourselves. Part hands-on gaming studio, part literature seminar—students will play a range of digital and analog games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
-		<p>In this course, we will read works in several popular genres of fiction including fantasy literature, detective fiction, and horror. In each case, we’ll analyze the historical intersections of these popular genres with games and gaming culture. First, we’ll read from selected works by J.R.R. Tolkien to trace the fantasy genre’s historical origins in myth, legend, and fairy tales, and explore how the genre conventions of fantasy writing have been reproduced, or subverted, by role-playing and open-world adventure games. Next, we’ll look to detective fiction's use of narrative form, uncovering a distinctive approach that stretches across both literary and gaming cultures. We will read a classic short novel by Arthur Conan Doyle to reveal how the formulaic building-blocks of the murder mystery (e.g., finding clues, mapping social space) mirror the investigative mechanics of social deduction games. Finally, we’ll consider the classic horror stories of Bram Stoker and H.P. Lovecraft to examine patterns of textual fragmentation and the mechanics of hidden information, using them as keys to understanding anxieties about gendered bodies in Victorian England and the psychopathology of race in modern America.</p>
+		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the shared affordances of games and literature as tools for understanding the world, and for shaping our relationships to each other, and ourselves. Part hands-on gaming studio, part literature seminar — students will play a range of digital and analog role-playing games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
+		<p>In this course, we will read works in several popular genres of fiction including fantasy literature, gothic and cosmic horror, and detective fiction. In each case, we'll explore the historical intersections of these popular genres with games and gaming culture, with particular attention to the role-playing game (RPG) as a contemporary inheritor and re-shaper of literary tradition. First, we'll read from selected works by J.R.R. Tolkien to trace the fantasy genre's historical origins in myth, legend, and fairy tales, and engage with <em>Wanderhome</em>, a contemporary tabletop RPG that draws on this lineage to model a different kind of fantasy storytelling. Next, we'll turn to horror fiction, reading from Bram Stoker's <em>Dracula</em> and the weird stories of H.P. Lovecraft. We'll pair these readings with the journaling RPG <em>Thousand-Year-Old Vampire</em>, considering how the form of the journal mediates horror across centuries — and <em>Harlem Unbound</em>, a contemporary RPG that responds critically to the psychopathology of race that pervades Lovecraft's writings. Finally, we'll examine detective fiction's distinctive approach to narrative form, reading classic Sherlock Holmes stories alongside the social-deduction game <em>Blood on the Clocktower</em> and the literary CRPG <em>Disco Elysium</em>, exploring how the formulaic building-blocks of the murder mystery (e.g., finding clues, mapping social space) translate into the investigative mechanics of contemporary games.</p>
+		<p>Across the term, students will develop their own short original RPG as the culminating project of the course — a small, playable game in dialogue with the literature and games we encounter together.</p>
 	</div>
 </section>
 
@@ -24,233 +25,225 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week2.jpg" alt="" data-position="center center" />
+			<img src="assets/images/week1.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 1 - Introduction to the Course</h3>
+					<h3>Week 1 - Introduction to Course</h3>
 				</header>
-				<p>Overview of Course Materials and Peer Introductions</p>
-				<p><strong>M - 08/19</strong> Review <a href="https://uncch.instructure.com/courses/64653/files?preview=8341834" target="_blank">Course Syllabus</a></p>
-				<p><strong>W - 08/21</strong> Discuss Nguyen and Burke</p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 08/17</strong> Review <a href="#">Course Syllabus</a> and Course Overview</p>
+				<p><strong>W - 08/21</strong> Conceptual Foundations: Games as Equipment for Living</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week2b.jpg" alt="" data-position="top center" />
+			<img src="assets/images/week2.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 2 - Frameworks for Play</h3>
+					<h3>Week 2 - Tolkien, TTRPGs, and the Fantasy Tradition</h3>
 				</header>
-				<p><strong>M - 08/26</strong> Discuss Salen & Zimmerman and Jagoda; Play <em>Stardew Valley</em> and <em>Settlers of Catan</em></p>
-				<p><strong>W - 08/28</strong> Discuss Chang and Flanagan; Play <em>Octodad</em> and <em>Disco Elysium</em></p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
-				</p>
+				<p><strong>M - 08/24</strong> Discuss TTRPGs and Fantasy Literature</p>
+				<p><strong>W - 08/26</strong> Discuss Tolkien, <em>The Lord of the Rings</em></p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week3b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week3.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 3 - Tolkien and the Fantasy Tradition</h3>
+					<h3>Week 3 - Wanderhome</h3>
 				</header>
-				<p><strong>Myth, Legend, and Fairy Tale</strong>
-				</p>
-				<p><strong>M - 09/02 LABOR DAY</strong></p>
-				<p><strong>W - 09/04</strong> Discuss Tolkien, "On Fairy Stories" and "Mythopoeia"</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
-				</p>
+				<p><strong>M - 08/31</strong> Character Creation</p>
+				<p><strong>W - 09/02</strong> Journeying</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week4b.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week4.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 4 - Open World Building</h3>
+					<h3>Week 4 - Wanderhome</h3>
 				</header>
-				<p><strong>Space, Choice, and Epic Storytelling</strong>
-				</p>
-				<p><strong>M - 09/09</strong> Play and Discuss <em>The Witcher III</em>
-				</p>
-				<p><strong>W - 09/11</strong> Discuss Tolkien, <em>The Silmarillion</em> (1977) and <em> The Hobbit</em> (1937)</p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 09/07 NO CLASS – LABOR DAY</strong></p>
+				<p><strong>W - 09/09</strong> Placemaking</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week5b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week5.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 5 - Narrative Architecture</h3>
+					<h3>Week 5 - Wanderhome</h3>
 				</header>
-				<p><strong>Textual Ruins and Metafictional Gestures</strong>
-				</p>
-				<p><strong>M - 09/16</strong> Discuss Tolkien, <em>The Lord of the Rings</em> (1954-5)
-				</p>
-				<p><strong>W - 09/18</strong> Play and Discuss <em>The Witcher III</em>
-				</p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 09/14</strong> <em>Wanderhome</em> Debrief Discussion</p>
+				<p><strong>W - 09/16</strong> Pitch Project Overview and Kickoff</p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week6b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week6.jpg" alt="" data-position="25% 25%" style="object-position: top;" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 6 - Playing in Faërie</h3>
+					<h3>Week 6 - Design Project Development</h3>
 				</header>
-				<p><strong>Roleplay and Collaborative Storytelling</strong>
-				</p>
-				<p><strong>M - 09/23 WELLNESS DAY</strong> </p>
-				<p><strong>W - 09/25</strong> Discuss Peterson, "The Two Cultures" and <em>Dungeons and Dragons, 1st Ed.</em></p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 09/21 NO CLASS – WELLNESS DAY</strong></p>
+				<p><strong>W - 09/23</strong> Surveying the Field of Play</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week7b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week7.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 7 - Character Creation</h3>
+					<h3>Week 7 - Playing with Memory, Gothic Fiction and Literary Form</h3>
 				</header>
-				<p><strong>Agency and Self-Invention</strong>
-				</p>
-				<p><strong>M - 09/30</strong> Character Creation Exercise</p>
-				<p><strong>T - 10/01 EXT Play</strong> <em>Wanderhome</em>
-				</p>
-				<p><strong>W - 10/02</strong> Discuss <em>Wanderhome</em></p>
+				<p><strong>M - 09/28</strong> Discuss <em>Dracula</em> and Horror Fiction</p>
+				<p><strong>W - 09/30</strong> Play and Discuss <em>Thousand-Year-Old Vampire</em></p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/week8.png" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Week 8 - Cosmic Horror and the Psychopathology of Race</h3>
+				</header>
+				<p><strong>M - 10/05</strong> Discuss "The Call of Cthulhu" and "The Dunwich Horror"</p>
+				<p><strong>W - 10/07</strong> Play <em>Harlem Unbound</em></p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/week9.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 8 - Clues in the Classic Detective Story</h3>
+					<h3>Week 9 - Design Project Development</h3>
 				</header>
-				<p><strong>The Mechanics of the Mystery Formula</strong>
-				</p>
-				<p><strong>M - 10/07</strong> Discuss Todorov, "The Typology of Detective Fiction"</p>
-				<p><strong>W - 10/09</strong> Discuss Conan Doyle <em>The Hound of the Baskervilles</em> (1902)
-				</p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 10/12</strong> RPG Pitch Workshop</p>
+				<p><strong>W - 10/14</strong> Pitch Drafting Studio</p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/week10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 9 - Playing at Murder, and Investigation</h3>
+					<h3>Week 10 - Clues in the Classical Detective Story</h3>
 				</header>
-				<p><strong>Social Deduction Games</strong>
-				</p>
-				<p><strong>M - 10/14</strong> Lying to Your Friends is Fun!</p> 
-				<p><strong>T - 10/15 EXT Play</strong> <em>Blood on the Clocktower</em></p>
-				<p><strong>W - 10/16</strong> Discuss <em> Blood on the Clocktower</em></p>
+				<p><strong>M - 10/19</strong> Discuss Todorov, Suits, and Detective Fiction</p>
+				<p><strong>W - 10/21</strong> Discuss Sherlock Holmes [selections]</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week10b.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week11.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 10 - Playing with Memory</h3>
+					<h3>Week 11 - Playing at Murder, and Investigation</h3>
 				</header>
-				<p><strong>Gothic Fiction and Literary Form</strong>
-				</p>
-				<p><strong>M - 10/21</strong> Discuss Stoker, <em>Dracula</em> (1897)
-				</p>
-				<p><strong>W - 10/23</strong> Play <em>Thousand-Year-Old Vampire</em>
-				</p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 10/26</strong> Play <em>Blood on the Clocktower</em></p>
+				<p><strong>W - 10/28</strong> De-brief <em>Clocktower</em></p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week11b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week12.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 11 - Cosmic Horror</h3>
+					<h3>Week 12 - Disco Elysium</h3>
 				</header>
-				<p><strong>Lovecraft & the Psychopathology of Race</strong>
-				</p>
-				<p><strong>M - 10/28</strong> Discuss Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"
-				</p>
-				<p><strong>T - 10/29 EXT Play</strong> <em> Unfathomable</em></p>
-				<p><strong>W - 10/30</strong> Discuss <em>Unfathomable</em></p>
-				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 11/02</strong> What Kind of Cop Are You?</p>
+				<p><strong>W - 11/04</strong> Investigation as Indexical Storytelling</p>
+				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week12b.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/week13.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 12-14 - Project Development</h3>
+					<h3>Week 13 - Disco Elysium</h3>
 				</header>
-				<p><strong>From Proposal to Prototype</strong>
-				</p>
-				<p><strong>M/W - 11/04-06</strong> Goal Setting and Group Formation</p>
-				<p><strong>M/W - 11/11-13</strong> Research and Design Workshops</p>
-				<p><strong>M/W - 11/18-20</strong> Production and Prototyping Workshops</p>
+				<p><strong>M - 11/09</strong> Cognitive Mapping in the Thought Cabinet</p>
+				<p><strong>W - 11/11</strong> <em>Disco Elysium</em> Debrief</p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/thanks.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week14.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 15 - Thanksgiving</h3>
+					<h3>Week 14 - Design Project Development</h3>
 				</header>
-				<p><strong>Holiday Break</strong>
-				</p>
-				<p><strong>M - 11/25</strong> Progress Report Check-In DUE</p>
-				<p><strong>W - 11/27</strong> NO CLASS</p>
+				<p><strong>M - 11/16</strong> Prototyping Workshop I</p>
+				<p><strong>W - 11/18</strong> Prototyping Workshop II</p>
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/week15.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Week 15 - Thanksgiving Break</h3>
+				</header>
+				<p><strong>M - 11/23 NO CLASS – THANKSGIVING HOLIDAY</strong></p>
+				<p><strong>W - 11/25 NO CLASS – THANKSGIVING HOLIDAY</strong></p>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/week16.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -259,12 +252,21 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 16 - Conclusion to the Course</h3>
 				</header>
-				<p><strong>Course Wrap-Up and Feedback Survey</strong>
-				</p>
 				<p><strong>M - 12/02</strong> Playtesting Workshop</p>
 				<p><strong>W - 12/04</strong> Conclusion</p>
 			</div>
 		</div>
 	</section>
+</section>
+
+<!-- Three -->
+<section id="three" style="text-align: center;">
+	<style>#three header.major { margin-left: auto; margin-right: auto; }</style>
+	<div class="inner">
+		<header class="major">
+			<h2>Final Exam Period</h2>
+		</header>
+		<p><strong>F - 12/11</strong> Design Showcase, 12:00–3:00 PM ET (GL 316)</p>
+	</div>
 </section>
 </div>
