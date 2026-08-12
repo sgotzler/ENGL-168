@@ -33,7 +33,7 @@ nav-menu: true
 					<h3>Week 1 - Introduction to Course</h3>
 				</header>
 				<p><strong>M - 08/17</strong> Review <a href="#">Course Syllabus</a> and Course Overview</p>
-				<p><strong>W - 08/21</strong> Conceptual Foundations: Games as Equipment for Living</p>
+				<p><strong>W - 08/19</strong> Conceptual Foundations: Games as Equipment for Living</p>
 				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
