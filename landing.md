@@ -32,7 +32,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 1 - Introduction to Course</h3>
 				</header>
-				<p><strong>M - 08/17</strong> Review <a href="https://uncch.instructure.com/courses/126688/files?preview=16335691">Course Resources</a> and Course Overview</p>
+				<p><strong>M - 08/17</strong> Review <a href="https://uncch.instructure.com/courses/126688/files?preview=16335691">Course Resources</a> and Schedule Overview</p>
 				<p><strong>W - 08/19</strong> Conceptual Foundations: Games as Equipment for Living</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
