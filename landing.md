@@ -32,9 +32,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 1 - Introduction to Course</h3>
 				</header>
-				<p><strong>M - 08/17</strong> Review <a href="#">Course Syllabus</a> and Course Overview</p>
+				<p><strong>M - 08/17</strong> Review <a href="https://uncch.instructure.com/courses/126688/files?preview=16335691">Course Resources</a> and Course Overview</p>
 				<p><strong>W - 08/19</strong> Conceptual Foundations: Games as Equipment for Living</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 08/24</strong> Discuss TTRPGs and Fantasy Literature</p>
 				<p><strong>W - 08/26</strong> Discuss Tolkien, <em>The Lord of the Rings</em></p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 08/31</strong> Character Creation</p>
 				<p><strong>W - 09/02</strong> Journeying</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -79,7 +79,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 09/07 NO CLASS – LABOR DAY</strong></p>
 				<p><strong>W - 09/09</strong> Placemaking</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -108,7 +108,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 09/21 NO CLASS – WELLNESS DAY</strong></p>
 				<p><strong>W - 09/23</strong> Surveying the Field of Play</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -123,7 +123,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 09/28</strong> Discuss <em>Dracula</em> and Horror Fiction</p>
 				<p><strong>W - 09/30</strong> Play and Discuss <em>Thousand-Year-Old Vampire</em></p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -138,7 +138,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 10/05</strong> Discuss "The Call of Cthulhu" and "The Dunwich Horror"</p>
 				<p><strong>W - 10/07</strong> Play <em>Harlem Unbound</em></p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -167,7 +167,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 10/19</strong> Discuss Todorov, Suits, and Detective Fiction</p>
 				<p><strong>W - 10/21</strong> Discuss Sherlock Holmes [selections]</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -182,7 +182,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 10/26</strong> Play <em>Blood on the Clocktower</em></p>
 				<p><strong>W - 10/28</strong> De-brief <em>Clocktower</em></p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -197,7 +197,7 @@ nav-menu: true
 				</header>
 				<p><strong>M - 11/02</strong> What Kind of Cop Are You?</p>
 				<p><strong>W - 11/04</strong> Investigation as Indexical Storytelling</p>
-				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
