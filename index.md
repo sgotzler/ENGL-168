@@ -14,5 +14,5 @@ show_tile: false
 
 **Office Hours:** [Greenlaw Hall, 315](https://maps.unc.edu/buildings/greenlaw-hall/)
 
-| TBD |
+| T 1:00-2:00 PM W 2:00-3:00 PM R 12:30-1:30 PM (virtual) |
 
