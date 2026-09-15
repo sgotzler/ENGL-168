@@ -44,7 +44,7 @@ show_tile: false
 <section id="one" markdown="1">
 <div class="inner" markdown="1">
 
-On **Wed 09/23** we will run Five contemporary role-playing games at five stations across the Gameroom — one game per station, five students at each, ~45 minutes of play — followed by a cross-group debrief. You'll play one game in depth, and leave the session with at least a passing familiarity with central design moves of the others.
+On **Wed 09/23** we will run five contemporary role-playing games at five stations across the Gameroom — one game per station, five students at each, ~45 minutes of play — followed by a cross-group debrief. You'll play one game in depth, and leave the session with at least a passing familiarity with central design moves of the others.
 
 Review this page during class on **Wed 09/16**, when you'll rank your top three choices on an index card. Use it also as a reference over the long weekend while reading the sourcebook for your assigned game.
 
