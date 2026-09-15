@@ -107,7 +107,7 @@ nav-menu: true
 					<h3>Week 6 - Design Project Development</h3>
 				</header>
 				<p><strong>M - 09/21 NO CLASS – WELLNESS DAY</strong></p>
-				<p><strong>W - 09/23</strong> Surveying the Field of Play</p>
+				<p><strong>W - 09/23</strong> <a href="field-of-play.html">Surveying the Field of Play</a></p>
 				<p><strong>Readings</strong> <a href="#" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
