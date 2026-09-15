@@ -12,7 +12,7 @@ show_tile: false
 
 **Zoom:** [https://unc.zoom.us/j/6036637992](https://unc.zoom.us/j/6036637992)
 
-**Office Hours:** [Greenlaw Hall, 313](https://maps.unc.edu/buildings/greenlaw-hall/)
+**Office Hours:** [Greenlaw Hall, 315](https://maps.unc.edu/buildings/greenlaw-hall/)
 
-| TBD |
+| T 1:00-2:00 PM W 2:00-3:00 PM R 12:30-1:30 PM (virtual) |
 
