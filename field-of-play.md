@@ -191,7 +191,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 ## Bluebeard's Bride
 
-*feminist body horror*
+*a young bride, a rich husband, a house with terrible rooms*
 
 **What it's about:** The oldest and bleakest of fairy tales. A young bride, a rich husband with a strange blue beard, a ring of keys, and one door she is forbidden to open. You may already know how it ends. The game is seeing how you get there.
 
