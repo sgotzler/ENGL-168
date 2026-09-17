@@ -127,7 +127,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 **Player Configuration:** GM plus three to five players. 
 
-**Reading:** Turbo one-sheet contains three sheets — player, GM, and a run sheet with a scenario already prepped. 
+**Reading:** Turbo is a one-shot made up of three single sheets of rules — player, GM, and a run sheet with a scenario already prepped. 
 
 **Content warnings:** teen risk-taking, mild peril, nobody dies. Note that Turbo is a free demo of a much larger game, check out the [full rulebook](https://online.anyflip.com/tedhi/tzgs/mobile/index.html).
 
