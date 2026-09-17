@@ -8,33 +8,16 @@ show_tile: false
 
 <style>
 #banner { background-position: center top; }
-/* game blocks, left to right: image | overview | details (the theme alternates sides by default) */
+/* game blocks, left to right: image | overview | details, at every window size
+   (the theme alternates sides and stacks blocks on narrow screens by default) */
 #two.spotlights > section,
-#two.spotlights > section:nth-child(2n) { flex-direction: row; flex-wrap: nowrap; }
+#two.spotlights > section:nth-child(2n) { display: flex; flex-direction: row; flex-wrap: nowrap; }
 #two.spotlights > section > .image { width: 25%; }
 /* image fills the full height of its block */
 #two.spotlights > section > .image img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; }
 #two.spotlights > section > .content { width: 37.5%; justify-content: flex-start; align-items: stretch; padding: 3em 1.5em 3em 2.5em; }
 #two.spotlights > section > .content + .content { padding: 3em 2.5em 3em 1.5em; }
 #two.spotlights > section > .content > .inner { width: 100%; }
-
-/* laptops and tablets: image on top, two text columns below */
-@media screen and (max-width: 1280px) {
-	#two.spotlights > section,
-	#two.spotlights > section:nth-child(2n) { display: flex; flex-wrap: wrap; }
-	#two.spotlights > section > .image { width: 100%; padding: 2.5em 2.5em 0; text-align: center; }
-	#two.spotlights > section > .image img { position: static; width: auto; height: auto; max-width: 100%; max-height: 24em; margin: 0 auto; }
-	#two.spotlights > section > .content { width: 50%; padding: 2em 1.25em 3em 2.5em; }
-	#two.spotlights > section > .content + .content { padding: 2em 2.5em 3em 1.25em; }
-}
-
-/* phones: everything in one column */
-@media screen and (max-width: 736px) {
-	#two.spotlights > section > .image { padding: 1.5em 1.5em 0; }
-	#two.spotlights > section > .content,
-	#two.spotlights > section > .content + .content { width: 100%; padding: 2em 1.5em 0; }
-	#two.spotlights > section > .content + .content { padding-bottom: 2.5em; }
-}
 </style>
 
 <!-- Main -->
@@ -76,7 +59,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 ***"Play until you are tired, and want to return home. If you want to remember your travels, save the journal. If the memories bring you pain, burn it."***
 
-**What it will teach you:** How small a complete game can be, and how much an oracle can generate from very little — four suits and thirteen ranks make fifty-two prompts the designer never had to write.
+**What it will teach you:** How small a complete game can be, and how much an oracle can generate from very little — four suits and thirteen ranks make fifty-two prompts the designer barely had to write.
 
 **Player Configuration:** Solo, no GM — all five of you will play in parallel at the same table and read your logs to each other afterward. 
 
@@ -97,9 +80,9 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 *fantasy adventure, exploration, problem-solving, survival*
 
-**What it's about:** Dungeons, wilderness, a city, and a world that will kill you. This is the direct descendant of the game we rolled up in week one — the OSR line out of old D&D — stripped to its studs. Characters are fragile and disposable; the fun is in outthinking the situation rather than out-statting it.
+**What it's about:** Dungeons, wilderness, a city, and a world that will kill you. This is the direct descendant of the game we rolled up in week one — the OSR line out of old D&D — stripped to its studs in a structural sense. Characters are fragile and disposable; the fun is in outthinking the situation rather than out-statting it.
 
-**How it works:** Three abilities: Strength, Dexterity, Will. When something is risky, make a Danger Roll — 2d6 plus the relevant ability, 10 or higher and you avoid the danger. Four health at level one. Combat is 2d6 plus attack bonus against armor, and the damage is the difference between the two numbers. There is no spell list: you roll on tables of Effects, Elements and Forms and invent the spell on the spot. Nearly everything else in the fourteen pages is a table of thirty-six things — dungeon entrances, monster tactics, NPC goals, misfortunes, inn quirks.
+**How it works:** Three abilities: Strength, Dexterity, Will. When something is risky, make a Danger Roll — 2d6 plus the relevant ability, 10 or higher and you avoid the danger. Four health at level one. Combat is 2d6 plus attack bonus against armor, and the damage is the difference between the two numbers. There is no spell list: you roll on tables of Effects, Elements and Forms and invent the spell on the spot. Nearly everything else in the fourteen pages is a table of thirty-six things — dungeon entrances, monster tactics, NPC goals, misfortunes, quirky inns.
 
 </div>
 </div>
@@ -108,13 +91,13 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 ***"Maze Rats PCs are very minimalistic because the character sheet is mostly there for when players make a mistake. Players are not meant to solve problems with dice rolls, but with their own ingenuity."***
 
-**What it will teach you:** Dice tables as a design technology. Thirty-six words in a column can do work that a hundred pages of setting cannot, because the juxtapositions generate content the designer doesn't have to write.
+**What it will teach you:** Dice tables as a design technology. Thirty-six words in a column can do work that a hundred pages of setting cannot, because the juxtapositions generate content the designer doesn't have to elaborate in detail.
 
 **Player Configuration:** One GM, up to four players. 
 
 **Reading:** 14 pages — read the rules pages closely, skim the tables. 
 
-**Content warnings:** cartoonish violence; and note that the tables headed *Insanities* and *Mutations* use language around mental illness and disability that's worth attending to with critical attention.
+**Content warnings:** cartoonish violence; and note that the tables headed *Insanities* and *Mutations* use language around mental illness and disability that's worth interrogating and questioning rather than simply passing over.
 
 </div>
 </div>
@@ -129,7 +112,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 *teenagers, hoverboards, other dimensions*
 
-**What it's about:** "In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away with the problems at home. It's dangerous. It's stupid. It's got parent groups in a panic. And it's the coolest thing ever."
+**What it's about:** "In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from problems at home. It's dangerous. It's stupid. It's got parent groups in a panic. And it's the coolest thing ever."
 
 **How it works:** One d6 per action. A 6 succeeds. A 4–5 succeeds but there's a problem. A 1–3 fails and there's a problem anyway. You track two things: Trouble and Style. You can dodge any problem by saying "Nope!" and marking 2 Trouble, or raise the stakes by saying "Check it!" to add a trick — worse if it goes wrong, but a Style if it doesn't. Fill your Trouble track and you *peelback*: traumatically yanked home through spacetime. Afterwards you spend Style on the epilogue — a viral video, a record, a new friend, a sponsorship.
 
@@ -140,7 +123,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 ***"Go gonzo, stay grounded. It's Into the Spider-Verse, not Looney Tunes."***
 
-**What it will teach you:** How a game enforces its own tone by making the flashy, stupid choice mechanically attractive. Two currencies, pulling in opposite directions, and the aesthetic falls out of the arithmetic.
+**What it will teach you:** How a game enforces its own tone by making the flashy, stupid choice mechanically attractive. Two action currencies, pulling in opposite directions, and the aesthetic falls out of that simple arithmetic.
 
 **Player Configuration:** GM plus three to five players. 
 
@@ -161,9 +144,9 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 *a multi-generational family, a restaurant, and hopping vampires*
 
-**What it's about:** "A game about a Chinese family making their living by running a restaurant in one of North America's Chinatowns, circa 1920… Players take on the roles of members of the Chinese family, spanning three generations, who face threats of jiangshi (hopping vampires) at night and racism by day." Two threats, two shifts, one family.
+**What it's about:** A game about a Chinese family making their living by running a restaurant in one of North America's Chinatowns, circa 1920… Players take on the roles of members of the Chinese-American or Chinese-Canadian family, spanning three generations, who face the threat of jiangshi (hopping vampires) at night and the threat of racial discrimination by day.
 
-**How it works:** Play runs on a Restaurant board with a Day/Night tracker, and the family's d8s go onto whichever phase you're working. Character sheets carry Skills, Facets, Hopes and Dreams, dialect, generation, and hours of labor. The restaurant itself has eight slots, and as they fill it decays — "when all slots (slots 1–8) have been covered, the Restaurant goes into decay and the game ends." Three decks of cards feed the fiction. And the central move: nobody can die. "In this game, both player and non-player characters cannot die. They can only be turned into Jiangshi." Safety tooling — X-Card, Lines and Veils, Stars and Wishes — is written into the body of the book rather than bolted on.
+**How it works:** Play runs on a Restaurant board with a Day/Night tracker, and the family's d8s go onto whichever phase you're working. Character sheets carry Skills, Facets, Hopes and Dreams, dialect, generation, and hours of labor. The restaurant itself has eight slots, and as they fill it decays — "when all slots (slots 1–8) have been covered, the Restaurant goes into decay and the game ends." Three decks of cards feed the fiction. And the central move: nobody can die. "In this game, both player and non-player characters cannot die. They can only be turned into Jiangshi." Safety tooling — e.g., X-Card, Lines and Veils, Stars and Wishes — is written into the body of the book as an essential part of the design.
 
 </div>
 </div>
@@ -208,9 +191,9 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 **Player Configuration:** Groundskeeper plus three to five Sisters. One session usually takes three to four hours, ours will be abbreviated. 
 
-**Reading:** pp. 6–13 (what it is, what you need, playing safely), 16–27 (the tale, the Bride, the Sisters, the house, keys, tokens), then Chapter Two, plus your chosen Sister's playbook from p. 47. 
+**Reading:** pp. 6–13 (what it is, what you need, playing safely), 16–27 (the tale, the Bride, the Sisters, the house, keys, tokens), then Chapter Two, and your chosen Sister's playbook. 
 
-**Content warnings:** this is a horror game about marital violence and coercion. The book names "violence against women and a lack of agency" as recurring themes; the source tale involves murder and mutilation. An X-Card is expected at the table.
+**Content warnings:** this is a horror game about marital violence and coercion. The book names "violence against women and a lack of agency" as recurring themes; the source tale involves murder and mutilation. An X-Card will be used at the table.
 
 </div>
 </div>
