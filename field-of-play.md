@@ -123,7 +123,7 @@ The games are listed here in a deliberate order — smallest to largest — beca
 
 ***"Go gonzo, stay grounded. It's Into the Spider-Verse, not Looney Tunes."***
 
-**What it will teach you:** How a game enforces its own tone by making the flashy, stupid choice mechanically attractive. Two action currencies, pulling in opposite directions, and the aesthetic falls out of that simple arithmetic.
+**What it will teach you:** How a game enforces its own tone by making the flashy, stupid choice mechanically attractive. Two action currencies, pulling in opposite directions, and the aesthetic flows from that simple arithmetic.
 
 **Player Configuration:** GM plus three to five players. 
 
