@@ -35,7 +35,7 @@ Everything we do in this course will be rooted in two core activities: close rea
 
 A significant portion of our class time in the Gameroom will be used to facilitate critical play of featured games. To enable this, we will work together to play, watch, and discuss these texts and objects at the 5 gaming stations in small groups, or as one large group together. Aside from play sessions, the course will run mostly as a discussion-based seminar, where we will explore the literature we read, as well as the games we play together, through critical conversation. 
 
-***Expectations and Effort***: In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular weekly reading load of anywhere between 30–60 pages (15–30 pages per class session, M/W), and to come to each play session having read the corresponding journal prompt in advance.
+***Expectations and Effort***: In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular weekly reading workload of anywhere between 30–60 pages (15–30 pages per class session, M/W), and to come to each play session having read the corresponding journal prompt in advance.
 
 A small number of selected critical readings will be excerpted and assigned as mandatory reading. However, most of the reading in the course will consist of popular fiction. Weeks focusing more on gameplay, and less on literature, may also entail rulebooks, game handbooks, or character creation systems as required assigned reading. As the term progresses, I will continue to share uploads of critical selections related to the games and literature that we are discussing as assigned reading.
 
@@ -71,9 +71,9 @@ The document will address six elements: (1) a brief introductory pitch; (2) a de
 
 ---
 
-#### Original Short RPG + Designer's Note (40%)
+#### Story Games — an Original Short RPG + Designer's Note (40%)
 
-The Final Project is the culminating work of the course, and the realized version of the game you proposed in the RPG Pitch Document earlier in the semester. The relationship between the Pitch and the Final is one of development, not strict revision: the Pitch was a careful description of a game that did not yet exist, while the Final is the game made real — fully drafted, internally consistent, and playable by someone who has not been in our classroom. The development arc between the two is itself part of what you will reflect on in the designer's note.
+The Final Project is the culminating work of the course, and the realized version of the game you proposed in the RPG Pitch Document earlier in the semester. The relationship between the Pitch and the Final is one of development, not strict revision: the Pitch was a careful description of a game that did not yet exist, while the Final is a finished prototype of the game — fully drafted, internally consistent, and playable by someone who has not been in our classroom. The development arc between the two is itself part of what you will reflect on in the designer's note.
 
 The Final consists of three components: (1) the game itself, in prototype-stage playable form, in one of the four available formats — journaling RPG, BoB-style game, PbtA-style tabletop RPG, or TWINE game; (2) a designer's note that narrates the project's development from Pitch to Final, articulates one specific connection to course materials, and offers a brief invitation to your future players; and (3) a designer's presentation delivered at the Final Showcase, accompanied by slides and reshaped for live audience.
 

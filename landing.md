@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the shared affordances of games and literature as tools for understanding the world, and for shaping our relationships to each other, and ourselves. Part hands-on gaming studio, part literature seminar — students will play a range of digital and analog role-playing games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
 		<p>In this course, we will read works in several popular genres of fiction including fantasy literature, gothic and cosmic horror, and detective fiction. In each case, we'll explore the historical intersections of these popular genres with games and gaming culture, with particular attention to the role-playing game (RPG) as a contemporary inheritor and re-shaper of literary tradition. First, we'll read from selected works by J.R.R. Tolkien to trace the fantasy genre's historical origins in myth, legend, and fairy tales, and engage with <em>Wanderhome</em>, a contemporary tabletop RPG that draws on this lineage to model a different kind of fantasy storytelling. Next, we'll turn to horror fiction, reading from Bram Stoker's <em>Dracula</em> and the weird stories of H.P. Lovecraft. We'll pair these readings with the journaling RPG <em>Thousand-Year-Old Vampire</em>, considering how the form of the journal mediates horror across centuries — and <em>Harlem Unbound</em>, a contemporary RPG that responds critically to the psychopathology of race that pervades Lovecraft's writings. Finally, we'll examine detective fiction's distinctive approach to narrative form, reading classic Sherlock Holmes stories alongside the social-deduction game <em>Blood on the Clocktower</em> and the literary CRPG <em>Disco Elysium</em>, exploring how the formulaic building-blocks of the murder mystery (e.g., finding clues, mapping social space) translate into the investigative mechanics of contemporary games.</p>
-		<p>Across the term, students will develop their own short original RPG as the culminating project of the course — a small, playable game in dialogue with the literature and games we encounter together.</p>
+		<p>Across the term, students will develop their own short original RPG as the culminating project of the course — a small, playable story game in dialogue with the literature and games we encounter together.</p>
 	</div>
 </section>
 
@@ -136,7 +136,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 8 - Cosmic Horror and the Psychopathology of Race</h3>
 				</header>
-				<p><strong>M - 10/05</strong> Discuss "The Call of Cthulhu" and "The Dunwich Horror"</p>
+				<p><strong>M - 10/05</strong> Discuss Lovecraft and Weird Fiction</p>
 				<p><strong>W - 10/07</strong> Play <em>Harlem Unbound</em></p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/126688/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
@@ -193,7 +193,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 12 - Disco Elysium</h3>
+					<h3>Week 12 - Disco Elysium: Indexical Storytelling</h3>
 				</header>
 				<p><strong>M - 11/02</strong> What Kind of Cop Are You?</p>
 				<p><strong>W - 11/04</strong> Investigation as Indexical Storytelling</p>
@@ -208,7 +208,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 13 - Disco Elysium</h3>
+					<h3>Week 13 - Disco Elysium: Cognitive Mapping</h3>
 				</header>
 				<p><strong>M - 11/09</strong> Cognitive Mapping in the Thought Cabinet</p>
 				<p><strong>W - 11/11</strong> <em>Disco Elysium</em> Debrief</p>
